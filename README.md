@@ -1,7 +1,5 @@
 # **Platformer 2D**
 
-## Game design document
-
 
 ## Game design
 
