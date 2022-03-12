@@ -19,5 +19,14 @@ x
 
 ## _Development_
 
+A class called GameManager is responsible for moving the backround image throuoght the game, as well as genereting the floor and creating obstacles for the player to avoid.
+
+Additionally the Player class, is responsible for detecting when the player collides with an obstacle, animating the player and moving it arround the level.
+
 ---
 
+## Tech Stack
+
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
